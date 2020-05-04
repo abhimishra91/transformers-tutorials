@@ -12,8 +12,10 @@ Companies like [Google](https://github.com/google-research/bert) and [Facebook](
 
 ### Motivation
 Despite these amazing technological advancements applying these solutions to business problems is still a challenge given the niche knowledge required to understand and apply these method on specific problem statements. Hence, In the following tutorials i will be demonstrating how a user can leverage technologies along with some other python tools to fine tune these Language models to specific type of tasks. 
+
 Before i proceed i will like to mention the following groups for the fantastic work they are doing and sharing which have made these notebooks and tutorials possible:
 
+Please review these amazing sources of information and subscribe to their channels/sources.
  - [Hugging Face Team](https://huggingface.co/)
  - Abhishek Thakur for his amazing [Youtube videos](https://www.youtube.com/user/abhisheksvnit)
 
