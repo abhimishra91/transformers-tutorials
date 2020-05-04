@@ -19,7 +19,7 @@ Before i proceed i will like to mention the following groups for the fantastic w
 
 The problem statements that i will be working with are:
 
- 1. Text Classification - Multi-Class
+ 1. [Text Classification - Multi-Class](https://github.com/abhimishra91/transformers-tutorials/blob/master/01_transformers_multiclass_classification.ipynb)
  2. Text Classification - Multi-Label
  3. Sentiment Classification
  4. Named Entity Recognition	
