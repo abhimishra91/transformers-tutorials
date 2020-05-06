@@ -24,7 +24,7 @@ The problem statements that i will be working with are:
  1. [Text Classification - Multi-Class](https://github.com/abhimishra91/transformers-tutorials/blob/master/01_transformers_multiclass_classification.ipynb)
  2. Text Classification - Multi-Label
  3. Sentiment Classification
- 4. [Named Entity Recognition](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_ner.ipynb)	
+ 4. [Named Entity Recognition](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_ner.ipynb) - **with TPU processing!** 	
  5. Question Answering
  6. Summary Writing
 
