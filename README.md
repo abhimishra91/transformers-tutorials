@@ -21,12 +21,14 @@ Please review these amazing sources of information and subscribe to their channe
 
 The problem statements that i will be working with are:
 
- 1. [Text Classification - Multi-Class](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_multiclass_classification.ipynb)
- 2. [Text Classification - Multi-Label](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_multi_label_classification.ipynb)
- 3. Sentiment Classification
- 4. [Named Entity Recognition](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_ner.ipynb) - **with TPU processing!** 	
- 5. Question Answering
- 6. Summary Writing
+| Notebook |Github Link |Colab Link|Kaggle Kernel|
+|--|--|--|--|
+|Text Classification: Multi-Class| [Github](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_multiclass_classification.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhimishra91/transformers-tutorials/blob/master/transformers_multiclass_classification.ipynb)|[Kaggle](https://www.kaggle.com/eggwhites2705/transformers-multiclass-classification-ipynb)|
+|Text Classification: Multi-Label| [Github](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_multi_label_classification.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhimishra91/transformers-tutorials/blob/master/transformers_multi_label_classification.ipynb)|[Kaggle](https://www.kaggle.com/eggwhites2705/transformers-ner)|
+|Sentiment Classification||||
+|Named Entity Recognition: **with TPU processing!**|[Github](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_ner.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/abhimishra91/transformers-tutorials/blob/master/transformers_ner.ipynb](https://colab.research.google.com/github/abhimishra91/transformers-tutorials/blob/master/transformers_ner.ipynb))|[Kaggle](https://www.kaggle.com/eggwhites2705/transformers-ner)|
+|Question Answering||||
+|Summary Writing||||
 
 ### Directory Structure
 
